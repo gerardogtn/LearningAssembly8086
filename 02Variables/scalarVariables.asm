@@ -8,7 +8,7 @@
 ;;; B) WORD VARIABLES
 ;;; C) FLOATING POINT VARIABLES
 
-
+.DATA
 ;;; ******************************************************************
 ;;; A) BYTE VARIABLES 
         
